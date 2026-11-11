@@ -1,5 +1,7 @@
 # CamelliaSoft
 
+<img src="camelliasoft-avatar.png" align="right" width="96" alt="CamelliaSoft camellia mark" />
+
 Independent Unity game developer in Korea. I build mobile games and utilities for Android and iOS.
 
 한국에서 Unity와 C#으로 모바일 게임과 앱을 만들고 운영합니다.
