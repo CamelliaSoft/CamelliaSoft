@@ -1,16 +1,19 @@
-## Hi there 👋
+# CamelliaSoft
 
-<!--
-**CamelliaSoft/CamelliaSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Unity game developer in Korea. I build mobile games and utilities for Android and iOS.
 
-Here are some ideas to get you started:
+한국에서 Unity와 C#으로 모바일 게임과 앱을 만들고 운영합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Selected releases | Platforms |
+| --- | --- |
+| 알바왕 김사장 · Idle business RPG | [Google Play](https://play.google.com/store/apps/details?id=com.twohundredsoft.test) |
+| 마라탕 키우기 · Idle restaurant game | [Google Play](https://play.google.com/store/apps/details?id=com.camelliagames.MakeMaratang) · [App Store](https://apps.apple.com/app/id6739512775) |
+| 카드 뒤집기 · Memory Master | [Google Play](https://play.google.com/store/apps/details?id=com.CamelliaSoft.FlipandMatch) · [App Store](https://apps.apple.com/app/id6737721440) |
+| 고양이 게임회사 · Idle studio management | [Google Play](https://play.google.com/store/apps/details?id=com.CamelliaSoft.CatGameCompany) · [App Store](https://apps.apple.com/app/id6739977571) |
+| Firegames · Small games and tools | [Zoom Quiz](https://play.google.com/store/apps/details?id=com.firegames.zoomquiz) · [Bounce Ball](https://play.google.com/store/apps/details?id=com.firegames.bounceballgame) |
+
+## Code samples
+
+[Unity mobile code samples](https://github.com/CamelliaSoft/unity-mobile-code-samples) covers in-app purchases, object pooling, and stability practices for shipped mobile games.
+
+[Official blog](https://camelliasoftdev.blogspot.com/) · [Community](https://cafe.naver.com/camelliagames)
