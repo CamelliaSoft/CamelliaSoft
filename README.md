@@ -1,6 +1,6 @@
 # CamelliaSoft
 
-<img src="camelliasoft-avatar.png" align="right" width="96" alt="CamelliaSoft camellia mark" />
+<img src="camelliasoft-pixel-studio-500.png" align="right" width="160" alt="CamelliaSoft pixel art featuring Kim Sajang, a cat and malatang" />
 
 Independent Unity game developer in Korea. I build mobile games and utilities for Android and iOS.
 
