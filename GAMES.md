@@ -1,10 +1,10 @@
-# Games and tools
+# 출시작 목록
 
-CamelliaSoft develops and maintains Unity titles under Camellia Games and Firegames.
+동백소프트에서 개발하고 운영하는 동백게임과 파이어게임즈의 출시작 20개입니다.
 
-## Camellia Games
+## 동백게임
 
-| Title | Type | Android | iOS |
+| 앱 이름 | 장르·유형 | Android | iOS |
 | --- | --- | --- | --- |
 | 알바왕 김사장 | 방치형 경영 RPG | [Google Play](https://play.google.com/store/apps/details?id=com.twohundredsoft.test) | — |
 | 모기 킬러 | 탭 액션 | [Google Play](https://play.google.com/store/apps/details?id=com.camelliagames.MosquitoKiller) | [App Store](https://apps.apple.com/app/id6475064232) |
@@ -14,9 +14,9 @@ CamelliaSoft develops and maintains Unity titles under Camellia Games and Firega
 | 너의 로또는 | 번호 생성 도구 | [Google Play](https://play.google.com/store/apps/details?id=com.camelliagames.Lotto) | — |
 | 보안왕 김해커 | 교육 퀴즈 | [Google Play](https://play.google.com/store/apps/details?id=com.TwoHundredSoft.BK) | [App Store](https://apps.apple.com/app/id6480050422) |
 
-## Firegames
+## 파이어게임즈
 
-| Title | Type | Android | iOS |
+| 앱 이름 | 장르·유형 | Android | iOS |
 | --- | --- | --- | --- |
 | GPT 로또 | 번호 생성 도구 | [Google Play](https://play.google.com/store/apps/details?id=com.firegames.gptailotto) | — |
 | 바퀴벌레 박멸 | 탭 액션 | [Google Play](https://play.google.com/store/apps/details?id=com.firegames.cockroachkiller) | — |
@@ -32,4 +32,4 @@ CamelliaSoft develops and maintains Unity titles under Camellia Games and Firega
 | 견종 퀴즈 | 사진 객관식 퀴즈 | [Google Play](https://play.google.com/store/apps/details?id=com.firegames.breedmaster) | — |
 | 모기 카운터 | 탭 기록 도구 | [Google Play](https://play.google.com/store/apps/details?id=com.firegames.mosquitocounter) | — |
 
-[CamelliaSoft profile](https://github.com/CamelliaSoft) · [Official blog](https://camelliasoftdev.blogspot.com/)
+[동백소프트 프로필](https://github.com/CamelliaSoft) · [공식 블로그](https://camelliasoftdev.blogspot.com/)
